@@ -1,0 +1,92 @@
+Copyright (c) 2026 AWAKEN CULT VISIONS
+
+All rights reserved.
+
+---
+
+1. Ownership of the Software
+
+This software and all associated files, code, design, and functionality (the "Software") are the exclusive property of AWAKEN CULT VISIONS.
+
+---
+
+2. Permitted Use
+
+You are granted a non-exclusive, non-transferable license to:
+
+- Use the Software for personal and commercial creative purposes
+- Create images, videos, and other media using the Software
+- Modify the Software for personal use or internal experimentation
+- Create extensions, enhancements, or modifications ("Mods")
+
+---
+
+3. User Output Ownership
+
+All media created using the Software ("User Output") is fully owned by the user.
+
+Users are free to use, distribute, and sell their User Output without restriction.
+
+AWAKEN CULT VISIONS claims no ownership over User Output.
+
+---
+
+4. Modifications (Mods)
+
+You MAY:
+
+- Modify the Software
+- Build additional features on top of it
+- Share improvements or mods with others
+
+HOWEVER, all Mods must:
+
+- Clearly credit AWAKEN CULT VISIONS as the original creator
+- Not remove or obscure original branding or attribution
+- Not be distributed as a standalone competing product
+
+---
+
+5. Restrictions
+
+You may NOT:
+
+- Rebrand, rename, or present the Software as your own
+- Fork the Software into a separate competing project
+- Sell or sublicense the Software itself
+- Distribute modified versions as a standalone product without permission
+- Remove copyright, license, or attribution notices
+
+---
+
+6. Distribution of Mods
+
+Mods may be shared, but:
+
+- Must depend on or reference the original Software
+- Must not function as a full replacement of the Software
+- Must not be marketed as an independent product
+
+---
+
+7. No Open Source License
+
+This Software is not open source. Rights are granted only as explicitly stated.
+
+---
+
+8. Termination
+
+This license is automatically revoked if you violate these terms.
+
+---
+
+9. Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+
+IN NO EVENT SHALL AWAKEN CULT VISIONS BE LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE SOFTWARE.
+
+---
+
+AWAKEN CULT VISIONS
