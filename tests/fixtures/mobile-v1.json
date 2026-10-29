@@ -1,0 +1,10 @@
+{"format":"n0ise-project","version":1,"exportedAt":1,"snapshot":{
+ "ratio":"9:16","mediaType":"image","originalW":1000,"originalH":1500,
+ "layers":[
+  {"id":"L1","kind":"base","name":"Artwork","visible":true,"opacity":1,"blend":"normal","x":0.5,"y":0.5,"scale":1,"rotation":0,"fit":"cover","assetId":"asset-1","effects":[{"id":"e1","key":"bloom","visible":true,"params":{"radius":10}}],"adjustments":[],"mask":{"type":"none"}},
+  {"id":"L2","kind":"text","name":"Text","visible":true,"opacity":0.8,"blend":"multiply","x":0.5,"y":0.3,"scale":1.5,"rotation":0.5,"text":"HELLO","size":120,"color":"#d7ff39","effects":[],"adjustments":[]},
+  {"id":"L3","kind":"blank","name":"Solid Layer","visible":true,"opacity":1,"blend":"screen","x":0.5,"y":0.5,"scale":1,"rotation":0,"color":"#ff3f71","effects":[]},
+  {"id":"L4","kind":"paint","name":"Paint","visible":true,"opacity":1,"blend":"normal","x":0.5,"y":0.5,"scale":1,"rotation":0,"paintData":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg==","effects":[]}],
+ "stack":[{"id":"s1","key":"vhs","visible":true,"animate":true,"params":{"mix":1,"seed":77}},{"id":"s2","key":"dither","visible":false,"animate":true,"params":{"depth":2}}],
+ "groups":[{"id":"g1","name":"Group 1","layerIds":["L2","L3"],"visible":true}]},
+ "assets":[{"id":"asset-1","name":"a.png","type":"image/png","data":"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQAAAABJRU5ErkJggg=="}]}

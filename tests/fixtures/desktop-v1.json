@@ -1,0 +1,8 @@
+{"nodes":[
+ {"id":"n1","type":"image","label":"Image","x":80,"y":120,"w":190,"h":110,"params":{"fit":"cover","x":0,"y":0,"scale":1,"rotation":0},"visible":true,"locked":false,"solo":false,"collapsed":false,"mediaId":"m1"},
+ {"id":"n2","type":"glitch","label":"GLITCH","x":320,"y":120,"params":{"mix":1,"intensity":1,"seed":42,"amount":46},"visible":true,"locked":false,"solo":false},
+ {"id":"n3","type":"vhs","label":"VHS","x":560,"y":120,"params":{"mix":0.8,"intensity":1,"seed":77},"visible":true,"locked":false,"solo":false},
+ {"id":"n4","type":"output","label":"Output","x":800,"y":120,"params":{},"visible":true,"locked":false,"solo":false}],
+ "connections":[{"id":"c1","from":"n1","fromPort":"out","to":"n2","toPort":"in"},{"id":"c2","from":"n2","fromPort":"out","to":"n3","toPort":"in"},{"id":"c3","from":"n3","fromPort":"out","to":"n4","toPort":"in1"}],
+ "groups":[],"overlays":[],"artboard":{"width":1280,"height":720,"ratio":"16:9"},"viewport":{"x":260,"y":120,"scale":0.75},
+ "timeline":{"playing":true,"time":0,"duration":12,"loop":true},"mobileStack":[],"activeOutputId":"n4"}
